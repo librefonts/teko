@@ -1,0 +1,227 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Teko Light
+    Sub family: Light
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright 2014 Indian Type Foundry. All rights reserved.
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.105;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930; ttfautohint (v1.1) -l 7 -r 28 -G 50 -x 13 -D latn -f deva -w G
+    Vendor: Indian Type Foundry
+    Vendor url: http://www.indiantypefoundry.com
+    Designer: Manushi Parikh, Jonny Pinhorn
+    Designer url: http://www.indiantypefoundry.com
+    Glyph count: 1103
+    Character count: 427
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 96
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 10
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 59
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+  Font:
+    Common name: Teko Bold
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright 2014 Indian Type Foundry. All rights reserved.
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.105;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930; ttfautohint (v1.1) -l 7 -r 28 -G 50 -x 13 -D latn -f deva -w G
+    Vendor: Indian Type Foundry
+    Vendor url: http://www.indiantypefoundry.com
+    Designer: Manushi Parikh, Jonny Pinhorn
+    Designer url: http://www.indiantypefoundry.com
+    Glyph count: 1103
+    Character count: 427
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 96
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 10
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 59
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+  Font:
+    Common name: Teko Semibold
+    Sub family: Semibold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright 2014 Indian Type Foundry. All rights reserved.
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.105;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930; ttfautohint (v1.1) -l 7 -r 28 -G 50 -x 13 -D latn -f deva -w G
+    Vendor: Indian Type Foundry
+    Vendor url: http://www.indiantypefoundry.com
+    Designer: Manushi Parikh, Jonny Pinhorn
+    Designer url: http://www.indiantypefoundry.com
+    Glyph count: 1103
+    Character count: 427
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 96
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 10
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 59
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+  Font:
+    Common name: Teko Regular
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright 2014 Indian Type Foundry. All rights reserved.
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.105;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930; ttfautohint (v1.1) -l 7 -r 28 -G 50 -x 13 -D latn -f deva -w G
+    Vendor: Indian Type Foundry
+    Vendor url: http://www.indiantypefoundry.com
+    Designer: Manushi Parikh, Jonny Pinhorn
+    Designer url: http://www.indiantypefoundry.com
+    Glyph count: 1103
+    Character count: 427
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 96
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 10
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 59
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+  Font:
+    Common name: Teko Medium
+    Sub family: Medium
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright 2014 Indian Type Foundry. All rights reserved.
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.105;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930; ttfautohint (v1.1) -l 7 -r 28 -G 50 -x 13 -D latn -f deva -w G
+    Vendor: Indian Type Foundry
+    Vendor url: http://www.indiantypefoundry.com
+    Designer: Manushi Parikh, Jonny Pinhorn
+    Designer url: http://www.indiantypefoundry.com
+    Glyph count: 1103
+    Character count: 427
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 96
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 10
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 59
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3

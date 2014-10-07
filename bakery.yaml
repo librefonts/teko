@@ -1,0 +1,6 @@
+commit: HEAD
+process_files: [Teko-Light.ttf.ttx, Teko-Bold.ttf.ttx, Teko-SemiBold.ttf.ttx, Teko-Regular.ttf.ttx,
+  Teko-Medium.ttf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
